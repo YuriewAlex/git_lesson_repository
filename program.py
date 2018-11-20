@@ -1,3 +1,4 @@
+# I am new author
 <<<<<<< HEAD
 print("Hello, Python")
 =======
